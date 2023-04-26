@@ -1,7 +1,7 @@
 # WebCrawling&Scraping
 
 This program will read the SJSU faculty index web page at https://sjsu.edu/people/. 
-systematically extract information about each faculty or staff from links on index page,
+systematically extract information about each faculty or staff from over 1400 links on index page,
 and save the information in the csv file specified.
 
 Program will take in a name of the csv file as a command line argument: e.g. python scrape.py info.csv
